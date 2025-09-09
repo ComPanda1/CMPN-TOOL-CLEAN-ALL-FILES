@@ -37,7 +37,7 @@ Elimina archivos temporales: `.tmp`, `.log`, `.cache`, `.bak`, `.old`, `.temp`, 
 
 <div align="center">
 
-**🔗 [LIVE PREVIEW / VISTA PREVIA EN VIVO](https://your-preview-link-here.com)**
+**🔗 [LIVE PREVIEW / VISTA PREVIA EN VIVO](https://streamable.com/q7f1tz)**
 
 *See the tool in action / Ve la herramienta en acción*
 
