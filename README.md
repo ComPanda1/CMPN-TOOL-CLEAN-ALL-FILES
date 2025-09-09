@@ -1,9 +1,7 @@
 # 🧹 CMPN TOOL - System Cleaner
 
 <div align="center">
-
-![Banner](https://via.placeholder.com/800x200/FF0000/FFFFFF?text=CMPN+TOOL+-+SYSTEM+CLEANER)
-
+  
 [![License](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 [![Platform](https://img.shields.io/badge/Platform-Windows-lightgrey.svg)](https://www.microsoft.com/windows)
 [![Status](https://img.shields.io/badge/Status-Active-success.svg)]()
